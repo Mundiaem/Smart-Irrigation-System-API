@@ -1,0 +1,4718 @@
+{
+  "February": {
+    "2021-2-1": {
+      "20": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "Fahrenheit": 78.98,
+          "humidity": 41,
+          "moisture": 37.0479,
+          "temperature": 26.1
+        },
+        {
+          "Fahrenheit": 78.8,
+          "humidity": 41,
+          "moisture": 36.95015,
+          "temperature": 26
+        },
+        {
+          "Fahrenheit": 78.8,
+          "humidity": 41,
+          "moisture": 38.02542,
+          "temperature": 26
+        },
+        {
+          "Fahrenheit": 78.62,
+          "humidity": 41,
+          "moisture": 37.0479,
+          "temperature": 25.9
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 41,
+          "moisture": 38.41642,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 41,
+          "moisture": 38.61193,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 41,
+          "moisture": 37.53666,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 41,
+          "moisture": 37.4389,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 41,
+          "moisture": 37.2434,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 41,
+          "moisture": 36.95015,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 41,
+          "moisture": 37.82991,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 41,
+          "moisture": 36.95015,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 41,
+          "moisture": 37.14565,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 41,
+          "moisture": 37.82991,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 41,
+          "moisture": 37.82991,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 41,
+          "moisture": 37.2434,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 41,
+          "moisture": 37.2434,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 41,
+          "moisture": 37.2434,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 41,
+          "moisture": 37.34115,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 41,
+          "moisture": 37.14565,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 41,
+          "moisture": 37.53666,
+          "temperature": 25.5
+        },
+        null,
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 41,
+          "moisture": 36.95015,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 41,
+          "moisture": 37.4389,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 41,
+          "moisture": 37.0479,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 41,
+          "moisture": 36.26588,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 41,
+          "moisture": 36.65689,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 42,
+          "moisture": 37.2434,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 77.72,
+          "humidity": 42,
+          "moisture": 37.14565,
+          "temperature": 25.4
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 41,
+          "moisture": 36.95015,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 42,
+          "moisture": 37.2434,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 77.72,
+          "humidity": 42,
+          "moisture": 36.46139,
+          "temperature": 25.4
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 42,
+          "moisture": 36.65689,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 42,
+          "moisture": 36.65689,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 77.72,
+          "humidity": 42,
+          "moisture": 36.46139,
+          "temperature": 25.4
+        },
+        {
+          "Fahrenheit": 77.72,
+          "humidity": 42,
+          "moisture": 36.46139,
+          "temperature": 25.4
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 42,
+          "moisture": 36.65689,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 77.72,
+          "humidity": 42,
+          "moisture": 36.07038,
+          "temperature": 25.4
+        },
+        {
+          "Fahrenheit": 77.72,
+          "humidity": 42,
+          "moisture": 36.07038,
+          "temperature": 25.4
+        },
+        {
+          "Fahrenheit": 77.72,
+          "humidity": 42,
+          "moisture": 35.97263,
+          "temperature": 25.4
+        },
+        {
+          "Fahrenheit": 77.54,
+          "humidity": 43,
+          "moisture": 35.77713,
+          "temperature": 25.3
+        },
+        {
+          "Fahrenheit": 77.72,
+          "humidity": 43,
+          "moisture": 35.77713,
+          "temperature": 25.4
+        },
+        {
+          "Fahrenheit": 77.54,
+          "humidity": 43,
+          "moisture": 35.77713,
+          "temperature": 25.3
+        },
+        {
+          "Fahrenheit": 77.54,
+          "humidity": 43,
+          "moisture": 37.2434,
+          "temperature": 25.3
+        },
+        {
+          "Fahrenheit": 77.54,
+          "humidity": 44,
+          "moisture": 41.34897,
+          "temperature": 25.3
+        },
+        {
+          "Fahrenheit": 77.72,
+          "humidity": 43,
+          "moisture": 32.64907,
+          "temperature": 25.4
+        },
+        {
+          "Fahrenheit": 77.54,
+          "humidity": 44,
+          "moisture": 34.50636,
+          "temperature": 25.3
+        },
+        {
+          "Fahrenheit": 77.54,
+          "humidity": 44,
+          "moisture": 35.28837,
+          "temperature": 25.3
+        },
+        {
+          "Fahrenheit": 77.54,
+          "humidity": 44,
+          "moisture": 35.38612,
+          "temperature": 25.3
+        }
+      ],
+      "21": [
+        {
+          "Fahrenheit": 77.54,
+          "humidity": 44,
+          "moisture": 35.38612,
+          "temperature": 25.3
+        },
+        {
+          "Fahrenheit": 77.72,
+          "humidity": 44,
+          "moisture": 35.77713,
+          "temperature": 25.4
+        },
+        {
+          "Fahrenheit": 77.54,
+          "humidity": 44,
+          "moisture": 35.48387,
+          "temperature": 25.3
+        },
+        {
+          "Fahrenheit": 77.72,
+          "humidity": 44,
+          "moisture": 35.28837,
+          "temperature": 25.4
+        },
+        {
+          "Fahrenheit": 77.72,
+          "humidity": 44,
+          "moisture": 35.97263,
+          "temperature": 25.4
+        },
+        {
+          "Fahrenheit": 77.72,
+          "humidity": 44,
+          "moisture": 35.28837,
+          "temperature": 25.4
+        },
+        {
+          "Fahrenheit": 77.72,
+          "humidity": 44,
+          "moisture": 34.50636,
+          "temperature": 25.4
+        },
+        {
+          "Fahrenheit": 77.54,
+          "humidity": 44,
+          "moisture": 34.0176,
+          "temperature": 25.3
+        },
+        {
+          "Fahrenheit": 77.72,
+          "humidity": 44,
+          "moisture": 34.31085,
+          "temperature": 25.4
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 44,
+          "moisture": 33.52884,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 44,
+          "moisture": 33.91984,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 44,
+          "moisture": 33.33333,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 44,
+          "moisture": 32.84457,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 78.08,
+          "humidity": 44,
+          "moisture": 32.45357,
+          "temperature": 25.6
+        },
+        {
+          "Fahrenheit": 78.08,
+          "humidity": 43,
+          "moisture": 32.45357,
+          "temperature": 25.6
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 43,
+          "moisture": 32.16031,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 43,
+          "moisture": 32.64907,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 43,
+          "moisture": 32.25806,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 43,
+          "moisture": 32.25806,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 43,
+          "moisture": 32.16031,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 43,
+          "moisture": 32.25806,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 43,
+          "moisture": 32.35582,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 43,
+          "moisture": 32.25806,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 43,
+          "moisture": 32.84457,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.62,
+          "humidity": 43,
+          "moisture": 32.84457,
+          "temperature": 25.9
+        },
+        {
+          "Fahrenheit": 78.62,
+          "humidity": 43,
+          "moisture": 32.35582,
+          "temperature": 25.9
+        },
+        {
+          "Fahrenheit": 78.62,
+          "humidity": 43,
+          "moisture": 32.94233,
+          "temperature": 25.9
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 43,
+          "moisture": 34.0176,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.62,
+          "humidity": 43,
+          "moisture": 34.0176,
+          "temperature": 25.9
+        },
+        {
+          "Fahrenheit": 79.16,
+          "humidity": 44,
+          "moisture": 32.94233,
+          "temperature": 26.2
+        },
+        {
+          "Fahrenheit": 78.62,
+          "humidity": 43,
+          "moisture": 32.94233,
+          "temperature": 25.9
+        },
+        {
+          "Fahrenheit": 78.62,
+          "humidity": 43,
+          "moisture": 32.35582,
+          "temperature": 25.9
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 43,
+          "moisture": 32.25806,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 43,
+          "moisture": 32.16031,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.8,
+          "humidity": 44,
+          "moisture": 31.3783,
+          "temperature": 26
+        },
+        {
+          "Fahrenheit": 78.8,
+          "humidity": 44,
+          "moisture": 31.47605,
+          "temperature": 26
+        },
+        {
+          "Fahrenheit": 78.62,
+          "humidity": 43,
+          "moisture": 31.67155,
+          "temperature": 25.9
+        },
+        {
+          "Fahrenheit": 78.8,
+          "humidity": 45,
+          "moisture": 45.06354,
+          "temperature": 26
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 44,
+          "moisture": 36.95015,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 77.72,
+          "humidity": 45,
+          "moisture": 33.04008,
+          "temperature": 25.4
+        },
+        {
+          "Fahrenheit": 77.72,
+          "humidity": 45,
+          "moisture": 32.74682,
+          "temperature": 25.4
+        }
+      ],
+      "22": {
+        "45": {
+          "Fahrenheit": 77.9,
+          "humidity": 47,
+          "moisture": -0.09775,
+          "temperature": 25.5
+        },
+        "46": {
+          "Fahrenheit": 77.72,
+          "humidity": 46,
+          "moisture": 55.91398,
+          "temperature": 25.4
+        },
+        "47": {
+          "Fahrenheit": 77.54,
+          "humidity": 46,
+          "moisture": 53.27468,
+          "temperature": 25.3
+        },
+        "48": {
+          "Fahrenheit": 77.54,
+          "humidity": 46,
+          "moisture": 44.67253,
+          "temperature": 25.3
+        },
+        "49": {
+          "Fahrenheit": 77.54,
+          "humidity": 46,
+          "moisture": 41.83773,
+          "temperature": 25.3
+        },
+        "50": {
+          "Fahrenheit": 77.54,
+          "humidity": 46,
+          "moisture": 41.83773,
+          "temperature": 25.3
+        },
+        "51": {
+          "Fahrenheit": 77.54,
+          "humidity": 46,
+          "moisture": 41.93548,
+          "temperature": 25.3
+        },
+        "52": {
+          "Fahrenheit": 77.54,
+          "humidity": 46,
+          "moisture": 41.73998,
+          "temperature": 25.3
+        },
+        "53": {
+          "Fahrenheit": 77.54,
+          "humidity": 46,
+          "moisture": 41.73998,
+          "temperature": 25.3
+        },
+        "54": {
+          "Fahrenheit": 77.54,
+          "humidity": 46,
+          "moisture": 41.25122,
+          "temperature": 25.3
+        },
+        "55": {
+          "Fahrenheit": 77.54,
+          "humidity": 46,
+          "moisture": 53.66569,
+          "temperature": 25.3
+        },
+        "56": {
+          "Fahrenheit": 77.72,
+          "humidity": 46,
+          "moisture": 42.22874,
+          "temperature": 25.4
+        },
+        "57": {
+          "Fahrenheit": 77.9,
+          "humidity": 46,
+          "moisture": 34.11535,
+          "temperature": 25.5
+        },
+        "58": {
+          "Fahrenheit": 77.9,
+          "humidity": 46,
+          "moisture": 34.60411,
+          "temperature": 25.5
+        },
+        "59": {
+          "Fahrenheit": 77.72,
+          "humidity": 46,
+          "moisture": 34.2131,
+          "temperature": 25.4
+        }
+      },
+      "23": [
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 46,
+          "moisture": 34.0176,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 46,
+          "moisture": 34.0176,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 46,
+          "moisture": 33.82209,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 46,
+          "moisture": 33.72434,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 45,
+          "moisture": 33.72434,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 45,
+          "moisture": 33.72434,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 45,
+          "moisture": 33.91984,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 46,
+          "moisture": 52.29716,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 46,
+          "moisture": 50.14663,
+          "temperature": 25.8
+        },
+        null,
+        {
+          "Fahrenheit": 80.24,
+          "humidity": 45,
+          "moisture": 39.39394,
+          "temperature": 26.8
+        },
+        {
+          "Fahrenheit": 79.34,
+          "humidity": 45,
+          "moisture": 39.68719,
+          "temperature": 26.3
+        },
+        {
+          "Fahrenheit": 79.34,
+          "humidity": 45,
+          "moisture": 39.39394,
+          "temperature": 26.3
+        },
+        {
+          "Fahrenheit": 78.98,
+          "humidity": 45,
+          "moisture": 39.39394,
+          "temperature": 26.1
+        },
+        {
+          "Fahrenheit": 78.98,
+          "humidity": 46,
+          "moisture": 39.39394,
+          "temperature": 26.1
+        },
+        {
+          "Fahrenheit": 78.62,
+          "humidity": 45,
+          "moisture": 39.39394,
+          "temperature": 25.9
+        },
+        {
+          "Fahrenheit": 78.62,
+          "humidity": 45,
+          "moisture": 39.19844,
+          "temperature": 25.9
+        },
+        {
+          "Fahrenheit": 78.62,
+          "humidity": 45,
+          "moisture": 39.19844,
+          "temperature": 25.9
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 45,
+          "moisture": 39.19844,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 45,
+          "moisture": 39.39394,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 45,
+          "moisture": 39.39394,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 45,
+          "moisture": 39.49169,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 45,
+          "moisture": 39.49169,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 45,
+          "moisture": 39.49169,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 45,
+          "moisture": 39.78495,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 46,
+          "moisture": 40.37146,
+          "temperature": 25.7
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "Fahrenheit": 78.98,
+          "humidity": 45,
+          "moisture": 39.98045,
+          "temperature": 26.1
+        },
+        {
+          "Fahrenheit": 78.98,
+          "humidity": 45,
+          "moisture": 38.70968,
+          "temperature": 26.1
+        },
+        {
+          "Fahrenheit": 78.8,
+          "humidity": 45,
+          "moisture": 38.80743,
+          "temperature": 26
+        },
+        {
+          "Fahrenheit": 78.8,
+          "humidity": 45,
+          "moisture": 38.80743,
+          "temperature": 26
+        },
+        {
+          "Fahrenheit": 78.62,
+          "humidity": 44,
+          "moisture": 39.19844,
+          "temperature": 25.9
+        },
+        {
+          "Fahrenheit": 78.62,
+          "humidity": 44,
+          "moisture": 39.00293,
+          "temperature": 25.9
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 44,
+          "moisture": 39.39394,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 44,
+          "moisture": 39.19844,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 44,
+          "moisture": 39.8827,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 44,
+          "moisture": 40.66471,
+          "temperature": 25.7
+        }
+      ]
+    },
+    "2021-2-2": [
+      [
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 44,
+          "moisture": 40.0782,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 45,
+          "moisture": 39.8827,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 45,
+          "moisture": 39.8827,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 45,
+          "moisture": 40.0782,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 45,
+          "moisture": 40.56696,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 45,
+          "moisture": 39.98045,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 77.72,
+          "humidity": 45,
+          "moisture": 39.00293,
+          "temperature": 25.4
+        },
+        {
+          "Fahrenheit": 77.72,
+          "humidity": 45,
+          "moisture": 39.19844,
+          "temperature": 25.4
+        },
+        {
+          "Fahrenheit": 77.54,
+          "humidity": 45,
+          "moisture": 38.70968,
+          "temperature": 25.3
+        },
+        {
+          "Fahrenheit": 77.36,
+          "humidity": 45,
+          "moisture": 38.61193,
+          "temperature": 25.2
+        },
+        {
+          "Fahrenheit": 77.36,
+          "humidity": 45,
+          "moisture": 38.61193,
+          "temperature": 25.2
+        },
+        {
+          "Fahrenheit": 77.36,
+          "humidity": 45,
+          "moisture": 38.22092,
+          "temperature": 25.2
+        },
+        {
+          "Fahrenheit": 77.36,
+          "humidity": 45,
+          "moisture": 37.82991,
+          "temperature": 25.2
+        },
+        {
+          "Fahrenheit": 77.36,
+          "humidity": 45,
+          "moisture": 39.29619,
+          "temperature": 25.2
+        },
+        {
+          "Fahrenheit": 77.36,
+          "humidity": 45,
+          "moisture": 39.00293,
+          "temperature": 25.2
+        },
+        {
+          "Fahrenheit": 77.36,
+          "humidity": 45,
+          "moisture": 39.8827,
+          "temperature": 25.2
+        },
+        {
+          "Fahrenheit": 77.36,
+          "humidity": 45,
+          "moisture": 39.49169,
+          "temperature": 25.2
+        },
+        {
+          "Fahrenheit": 77,
+          "humidity": 46,
+          "moisture": 38.90518,
+          "temperature": 25
+        },
+        {
+          "Fahrenheit": 77,
+          "humidity": 46,
+          "moisture": 38.80743,
+          "temperature": 25
+        },
+        {
+          "Fahrenheit": 77,
+          "humidity": 46,
+          "moisture": 38.80743,
+          "temperature": 25
+        },
+        {
+          "Fahrenheit": 77,
+          "humidity": 46,
+          "moisture": 39.49169,
+          "temperature": 25
+        },
+        {
+          "Fahrenheit": 77.18,
+          "humidity": 45,
+          "moisture": 39.78495,
+          "temperature": 25.1
+        },
+        {
+          "Fahrenheit": 77,
+          "humidity": 45,
+          "moisture": 39.49169,
+          "temperature": 25
+        },
+        {
+          "Fahrenheit": 77.18,
+          "humidity": 45,
+          "moisture": 49.26686,
+          "temperature": 25.1
+        },
+        {
+          "Fahrenheit": 77.18,
+          "humidity": 46,
+          "moisture": 51.2219,
+          "temperature": 25.1
+        },
+        {
+          "Fahrenheit": 77.18,
+          "humidity": 46,
+          "moisture": 50.43988,
+          "temperature": 25.1
+        },
+        {
+          "Fahrenheit": 77,
+          "humidity": 46,
+          "moisture": 49.75562,
+          "temperature": 25
+        },
+        {
+          "Fahrenheit": 77,
+          "humidity": 46,
+          "moisture": 49.85337,
+          "temperature": 25
+        },
+        {
+          "Fahrenheit": 77,
+          "humidity": 46,
+          "moisture": 49.95112,
+          "temperature": 25
+        },
+        {
+          "Fahrenheit": 77,
+          "humidity": 46,
+          "moisture": 50.24438,
+          "temperature": 25
+        },
+        {
+          "Fahrenheit": 77,
+          "humidity": 46,
+          "moisture": 51.51515,
+          "temperature": 25
+        },
+        {
+          "Fahrenheit": 77,
+          "humidity": 46,
+          "moisture": 51.51515,
+          "temperature": 25
+        },
+        {
+          "Fahrenheit": 77,
+          "humidity": 46,
+          "moisture": 50.34213,
+          "temperature": 25
+        },
+        {
+          "Fahrenheit": 77,
+          "humidity": 46,
+          "moisture": 51.02639,
+          "temperature": 25
+        },
+        {
+          "Fahrenheit": 77,
+          "humidity": 46,
+          "moisture": 52.59042,
+          "temperature": 25
+        },
+        {
+          "Fahrenheit": 77,
+          "humidity": 46,
+          "moisture": 52.68817,
+          "temperature": 25
+        },
+        {
+          "Fahrenheit": 77.54,
+          "humidity": 46,
+          "moisture": 52.78592,
+          "temperature": 25.3
+        }
+      ],
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "36": {
+          "Fahrenheit": 74.48,
+          "humidity": 53,
+          "moisture": 45.84555,
+          "temperature": 23.6
+        },
+        "37": {
+          "Fahrenheit": 74.3,
+          "humidity": 54,
+          "moisture": 39.8827,
+          "temperature": 23.5
+        },
+        "38": {
+          "Fahrenheit": 74.3,
+          "humidity": 54,
+          "moisture": 38.31867,
+          "temperature": 23.5
+        },
+        "39": {
+          "Fahrenheit": 74.48,
+          "humidity": 54,
+          "moisture": 37.82991,
+          "temperature": 23.6
+        },
+        "40": {
+          "Fahrenheit": 74.66,
+          "humidity": 54,
+          "moisture": 37.73216,
+          "temperature": 23.7
+        },
+        "41": {
+          "Fahrenheit": 74.66,
+          "humidity": 54,
+          "moisture": 37.73216,
+          "temperature": 23.7
+        },
+        "42": {
+          "Fahrenheit": 74.48,
+          "humidity": 54,
+          "moisture": 38.02542,
+          "temperature": 23.6
+        },
+        "43": {
+          "Fahrenheit": 74.66,
+          "humidity": 53,
+          "moisture": 38.12317,
+          "temperature": 23.7
+        },
+        "44": {
+          "Fahrenheit": 74.84,
+          "humidity": 55,
+          "moisture": 46.23656,
+          "temperature": 23.8
+        },
+        "45": {
+          "Fahrenheit": 75.02,
+          "humidity": 54,
+          "moisture": 35.28837,
+          "temperature": 23.9
+        },
+        "46": {
+          "Fahrenheit": 75.02,
+          "humidity": 54,
+          "moisture": 35.67937,
+          "temperature": 23.9
+        },
+        "47": {
+          "Fahrenheit": 75.2,
+          "humidity": 54,
+          "moisture": 47.21408,
+          "temperature": 24
+        },
+        "48": {
+          "Fahrenheit": 75.38,
+          "humidity": 53,
+          "moisture": 35.38612,
+          "temperature": 24.1
+        },
+        "49": {
+          "Fahrenheit": 75.38,
+          "humidity": 53,
+          "moisture": 33.33333,
+          "temperature": 24.1
+        },
+        "50": {
+          "Fahrenheit": 75.38,
+          "humidity": 53,
+          "moisture": 33.33333,
+          "temperature": 24.1
+        },
+        "51": {
+          "Fahrenheit": 75.38,
+          "humidity": 53,
+          "moisture": 33.13783,
+          "temperature": 24.1
+        },
+        "52": {
+          "Fahrenheit": 75.56,
+          "humidity": 53,
+          "moisture": 33.52884,
+          "temperature": 24.2
+        },
+        "53": {
+          "Fahrenheit": 75.56,
+          "humidity": 53,
+          "moisture": 33.72434,
+          "temperature": 24.2
+        },
+        "54": {
+          "Fahrenheit": 75.74,
+          "humidity": 53,
+          "moisture": 33.82209,
+          "temperature": 24.3
+        },
+        "55": {
+          "Fahrenheit": 75.92,
+          "humidity": 53,
+          "moisture": 38.41642,
+          "temperature": 24.4
+        },
+        "56": {
+          "Fahrenheit": 75.92,
+          "humidity": 53,
+          "moisture": 34.0176,
+          "temperature": 24.4
+        },
+        "57": {
+          "Fahrenheit": 76.1,
+          "humidity": 53,
+          "moisture": 33.72434,
+          "temperature": 24.5
+        },
+        "58": {
+          "Fahrenheit": 76.28,
+          "humidity": 53,
+          "moisture": 33.62659,
+          "temperature": 24.6
+        },
+        "59": {
+          "Fahrenheit": 76.28,
+          "humidity": 53,
+          "moisture": 33.43108,
+          "temperature": 24.6
+        }
+      },
+      [
+        {
+          "Fahrenheit": 76.28,
+          "humidity": 53,
+          "moisture": 33.52884,
+          "temperature": 24.6
+        },
+        {
+          "Fahrenheit": 76.46,
+          "humidity": 53,
+          "moisture": 32.94233,
+          "temperature": 24.7
+        },
+        {
+          "Fahrenheit": 76.64,
+          "humidity": 53,
+          "moisture": 32.74682,
+          "temperature": 24.8
+        },
+        {
+          "Fahrenheit": 76.64,
+          "humidity": 53,
+          "moisture": 32.74682,
+          "temperature": 24.8
+        },
+        {
+          "Fahrenheit": 76.82,
+          "humidity": 53,
+          "moisture": 33.04008,
+          "temperature": 24.9
+        },
+        {
+          "Fahrenheit": 76.64,
+          "humidity": 53,
+          "moisture": 32.84457,
+          "temperature": 24.8
+        },
+        {
+          "Fahrenheit": 76.82,
+          "humidity": 53,
+          "moisture": 33.33333,
+          "temperature": 24.9
+        },
+        {
+          "Fahrenheit": 76.82,
+          "humidity": 53,
+          "moisture": 33.13783,
+          "temperature": 24.9
+        },
+        {
+          "Fahrenheit": 77,
+          "humidity": 53,
+          "moisture": 32.94233,
+          "temperature": 25
+        },
+        {
+          "Fahrenheit": 77,
+          "humidity": 53,
+          "moisture": 33.43108,
+          "temperature": 25
+        },
+        {
+          "Fahrenheit": 77,
+          "humidity": 53,
+          "moisture": 32.94233,
+          "temperature": 25
+        },
+        {
+          "Fahrenheit": 77,
+          "humidity": 53,
+          "moisture": 32.94233,
+          "temperature": 25
+        },
+        {
+          "Fahrenheit": 77,
+          "humidity": 53,
+          "moisture": 33.52884,
+          "temperature": 25
+        },
+        {
+          "Fahrenheit": 77.36,
+          "humidity": 53,
+          "moisture": 32.84457,
+          "temperature": 25.2
+        },
+        {
+          "Fahrenheit": 77.36,
+          "humidity": 52,
+          "moisture": 32.84457,
+          "temperature": 25.2
+        },
+        {
+          "Fahrenheit": 77.36,
+          "humidity": 52,
+          "moisture": 33.04008,
+          "temperature": 25.2
+        },
+        {
+          "Fahrenheit": 77.36,
+          "humidity": 52,
+          "moisture": 33.13783,
+          "temperature": 25.2
+        },
+        {
+          "Fahrenheit": 77.72,
+          "humidity": 52,
+          "moisture": 32.74682,
+          "temperature": 25.4
+        },
+        {
+          "Fahrenheit": 77.54,
+          "humidity": 52,
+          "moisture": 32.94233,
+          "temperature": 25.3
+        },
+        {
+          "Fahrenheit": 77.54,
+          "humidity": 52,
+          "moisture": 32.84457,
+          "temperature": 25.3
+        },
+        {
+          "Fahrenheit": 77.54,
+          "humidity": 52,
+          "moisture": 32.74682,
+          "temperature": 25.3
+        },
+        {
+          "Fahrenheit": 77.54,
+          "humidity": 52,
+          "moisture": 32.84457,
+          "temperature": 25.3
+        },
+        {
+          "Fahrenheit": 77.72,
+          "humidity": 52,
+          "moisture": 33.13783,
+          "temperature": 25.4
+        },
+        {
+          "Fahrenheit": 77.72,
+          "humidity": 52,
+          "moisture": 37.82991,
+          "temperature": 25.4
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 51,
+          "moisture": 32.84457,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 51,
+          "moisture": 32.35582,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 50,
+          "moisture": 33.33333,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 50,
+          "moisture": 32.35582,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 50,
+          "moisture": 32.64907,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 50,
+          "moisture": 33.43108,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 50,
+          "moisture": 33.13783,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 49,
+          "moisture": 33.52884,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 49,
+          "moisture": 33.72434,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.62,
+          "humidity": 49,
+          "moisture": 33.72434,
+          "temperature": 25.9
+        },
+        {
+          "Fahrenheit": 78.62,
+          "humidity": 49,
+          "moisture": 33.72434,
+          "temperature": 25.9
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 49,
+          "moisture": 35.97263,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 49,
+          "moisture": 33.33333,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 49,
+          "moisture": 33.43108,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 49,
+          "moisture": 32.84457,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 49,
+          "moisture": 33.13783,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 49,
+          "moisture": 33.13783,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 49,
+          "moisture": 33.43108,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 49,
+          "moisture": 33.13783,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 49,
+          "moisture": 33.33333,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 48,
+          "moisture": 33.91984,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 48,
+          "moisture": 33.72434,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 48,
+          "moisture": 33.62659,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 48,
+          "moisture": 33.52884,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 48,
+          "moisture": 33.82209,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 48,
+          "moisture": 33.52884,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 48,
+          "moisture": 33.43108,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 48,
+          "moisture": 33.72434,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 48,
+          "moisture": 33.91984,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 48,
+          "moisture": 33.62659,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 48,
+          "moisture": 33.72434,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 48,
+          "moisture": 33.72434,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 49,
+          "moisture": 34.70186,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 49,
+          "moisture": 35.19062,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 49,
+          "moisture": 39.68719,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 48,
+          "moisture": 52.59042,
+          "temperature": 25.8
+        }
+      ],
+      [
+        {
+          "Fahrenheit": 78.08,
+          "humidity": 48,
+          "moisture": 53.86119,
+          "temperature": 25.6
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 48,
+          "moisture": 45.16129,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.62,
+          "humidity": 49,
+          "moisture": 49.36461,
+          "temperature": 25.9
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 49,
+          "moisture": 37.34115,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 49,
+          "moisture": 36.65689,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 50,
+          "moisture": 35.87488,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 50,
+          "moisture": 36.16813,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.08,
+          "humidity": 50,
+          "moisture": 36.07038,
+          "temperature": 25.6
+        },
+        {
+          "Fahrenheit": 78.08,
+          "humidity": 50,
+          "moisture": 35.97263,
+          "temperature": 25.6
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 49,
+          "moisture": 35.77713,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 77.72,
+          "humidity": 50,
+          "moisture": 35.97263,
+          "temperature": 25.4
+        },
+        {
+          "Fahrenheit": 77.72,
+          "humidity": 49,
+          "moisture": 36.16813,
+          "temperature": 25.4
+        },
+        {
+          "Fahrenheit": 77.72,
+          "humidity": 49,
+          "moisture": 35.97263,
+          "temperature": 25.4
+        },
+        {
+          "Fahrenheit": 77.72,
+          "humidity": 50,
+          "moisture": 36.26588,
+          "temperature": 25.4
+        },
+        {
+          "Fahrenheit": 77.54,
+          "humidity": 50,
+          "moisture": 35.97263,
+          "temperature": 25.3
+        },
+        {
+          "Fahrenheit": 77.54,
+          "humidity": 50,
+          "moisture": 35.87488,
+          "temperature": 25.3
+        },
+        {
+          "Fahrenheit": 77.36,
+          "humidity": 50,
+          "moisture": 35.97263,
+          "temperature": 25.2
+        },
+        {
+          "Fahrenheit": 77.36,
+          "humidity": 50,
+          "moisture": 36.07038,
+          "temperature": 25.2
+        },
+        {
+          "Fahrenheit": 77.36,
+          "humidity": 50,
+          "moisture": 35.97263,
+          "temperature": 25.2
+        },
+        {
+          "Fahrenheit": 77.36,
+          "humidity": 50,
+          "moisture": 36.26588,
+          "temperature": 25.2
+        },
+        {
+          "Fahrenheit": 77.18,
+          "humidity": 50,
+          "moisture": 36.26588,
+          "temperature": 25.1
+        },
+        {
+          "Fahrenheit": 77,
+          "humidity": 50,
+          "moisture": 35.97263,
+          "temperature": 25
+        },
+        {
+          "Fahrenheit": 77,
+          "humidity": 50,
+          "moisture": 36.07038,
+          "temperature": 25
+        },
+        {
+          "Fahrenheit": 77,
+          "humidity": 50,
+          "moisture": 36.07038,
+          "temperature": 25
+        },
+        {
+          "Fahrenheit": 77,
+          "humidity": 50,
+          "moisture": 36.26588,
+          "temperature": 25
+        },
+        {
+          "Fahrenheit": 77,
+          "humidity": 50,
+          "moisture": 36.26588,
+          "temperature": 25
+        },
+        {
+          "Fahrenheit": 77,
+          "humidity": 50,
+          "moisture": 36.16813,
+          "temperature": 25
+        },
+        {
+          "Fahrenheit": 77,
+          "humidity": 50,
+          "moisture": 35.67937,
+          "temperature": 25
+        },
+        {
+          "Fahrenheit": 76.82,
+          "humidity": 50,
+          "moisture": 36.16813,
+          "temperature": 24.9
+        },
+        {
+          "Fahrenheit": 76.82,
+          "humidity": 50,
+          "moisture": 36.55914,
+          "temperature": 24.9
+        },
+        {
+          "Fahrenheit": 76.82,
+          "humidity": 50,
+          "moisture": 36.07038,
+          "temperature": 24.9
+        },
+        {
+          "Fahrenheit": 76.82,
+          "humidity": 50,
+          "moisture": 35.87488,
+          "temperature": 24.9
+        },
+        {
+          "Fahrenheit": 76.64,
+          "humidity": 50,
+          "moisture": 35.87488,
+          "temperature": 24.8
+        },
+        {
+          "Fahrenheit": 76.82,
+          "humidity": 50,
+          "moisture": 36.46139,
+          "temperature": 24.9
+        },
+        {
+          "Fahrenheit": 76.64,
+          "humidity": 50,
+          "moisture": 35.97263,
+          "temperature": 24.8
+        },
+        {
+          "Fahrenheit": 76.64,
+          "humidity": 50,
+          "moisture": 36.55914,
+          "temperature": 24.8
+        },
+        {
+          "Fahrenheit": 76.64,
+          "humidity": 50,
+          "moisture": 36.16813,
+          "temperature": 24.8
+        },
+        {
+          "Fahrenheit": 76.64,
+          "humidity": 50,
+          "moisture": 35.97263,
+          "temperature": 24.8
+        },
+        {
+          "Fahrenheit": 76.64,
+          "humidity": 50,
+          "moisture": 36.07038,
+          "temperature": 24.8
+        },
+        {
+          "Fahrenheit": 76.64,
+          "humidity": 51,
+          "moisture": 35.97263,
+          "temperature": 24.8
+        },
+        {
+          "Fahrenheit": 76.64,
+          "humidity": 50,
+          "moisture": 36.07038,
+          "temperature": 24.8
+        },
+        {
+          "Fahrenheit": 76.64,
+          "humidity": 50,
+          "moisture": 35.77713,
+          "temperature": 24.8
+        },
+        {
+          "Fahrenheit": 76.64,
+          "humidity": 50,
+          "moisture": 35.87488,
+          "temperature": 24.8
+        },
+        {
+          "Fahrenheit": 76.64,
+          "humidity": 50,
+          "moisture": 36.16813,
+          "temperature": 24.8
+        },
+        {
+          "Fahrenheit": 76.64,
+          "humidity": 50,
+          "moisture": 35.77713,
+          "temperature": 24.8
+        },
+        {
+          "Fahrenheit": 76.64,
+          "humidity": 51,
+          "moisture": 36.16813,
+          "temperature": 24.8
+        },
+        {
+          "Fahrenheit": 76.64,
+          "humidity": 51,
+          "moisture": 35.97263,
+          "temperature": 24.8
+        },
+        {
+          "Fahrenheit": 76.64,
+          "humidity": 51,
+          "moisture": 35.87488,
+          "temperature": 24.8
+        },
+        {
+          "Fahrenheit": 76.46,
+          "humidity": 51,
+          "moisture": 35.67937,
+          "temperature": 24.7
+        },
+        {
+          "Fahrenheit": 76.64,
+          "humidity": 51,
+          "moisture": 35.38612,
+          "temperature": 24.8
+        },
+        {
+          "Fahrenheit": 76.64,
+          "humidity": 51,
+          "moisture": 35.67937,
+          "temperature": 24.8
+        },
+        {
+          "Fahrenheit": 76.46,
+          "humidity": 51,
+          "moisture": 35.38612,
+          "temperature": 24.7
+        },
+        {
+          "Fahrenheit": 76.64,
+          "humidity": 51,
+          "moisture": 35.67937,
+          "temperature": 24.8
+        },
+        {
+          "Fahrenheit": 76.46,
+          "humidity": 51,
+          "moisture": 35.38612,
+          "temperature": 24.7
+        },
+        {
+          "Fahrenheit": 76.46,
+          "humidity": 51,
+          "moisture": 35.77713,
+          "temperature": 24.7
+        },
+        {
+          "Fahrenheit": 76.46,
+          "humidity": 51,
+          "moisture": 34.99511,
+          "temperature": 24.7
+        },
+        {
+          "Fahrenheit": 76.46,
+          "humidity": 51,
+          "moisture": 34.11535,
+          "temperature": 24.7
+        },
+        {
+          "Fahrenheit": 76.46,
+          "humidity": 51,
+          "moisture": 35.28837,
+          "temperature": 24.7
+        },
+        {
+          "Fahrenheit": 76.64,
+          "humidity": 51,
+          "moisture": 35.67937,
+          "temperature": 24.8
+        },
+        {
+          "Fahrenheit": 76.64,
+          "humidity": 51,
+          "moisture": 35.28837,
+          "temperature": 24.8
+        }
+      ],
+      [
+        {
+          "Fahrenheit": 76.64,
+          "humidity": 51,
+          "moisture": 35.38612,
+          "temperature": 24.8
+        },
+        {
+          "Fahrenheit": 76.64,
+          "humidity": 51,
+          "moisture": 35.28837,
+          "temperature": 24.8
+        },
+        {
+          "Fahrenheit": 76.64,
+          "humidity": 51,
+          "moisture": 35.67937,
+          "temperature": 24.8
+        },
+        {
+          "Fahrenheit": 76.64,
+          "humidity": 51,
+          "moisture": 35.38612,
+          "temperature": 24.8
+        },
+        {
+          "Fahrenheit": 76.64,
+          "humidity": 51,
+          "moisture": 34.99511,
+          "temperature": 24.8
+        },
+        {
+          "Fahrenheit": 76.64,
+          "humidity": 50,
+          "moisture": 34.0176,
+          "temperature": 24.8
+        },
+        {
+          "Fahrenheit": 76.64,
+          "humidity": 51,
+          "moisture": 34.2131,
+          "temperature": 24.8
+        },
+        {
+          "Fahrenheit": 76.46,
+          "humidity": 51,
+          "moisture": 34.2131,
+          "temperature": 24.7
+        },
+        {
+          "Fahrenheit": 76.46,
+          "humidity": 51,
+          "moisture": 34.79961,
+          "temperature": 24.7
+        },
+        {
+          "Fahrenheit": 76.64,
+          "humidity": 51,
+          "moisture": 34.31085,
+          "temperature": 24.8
+        },
+        {
+          "Fahrenheit": 76.64,
+          "humidity": 50,
+          "moisture": 34.2131,
+          "temperature": 24.8
+        },
+        {
+          "Fahrenheit": 76.82,
+          "humidity": 50,
+          "moisture": 34.50636,
+          "temperature": 24.9
+        },
+        {
+          "Fahrenheit": 76.82,
+          "humidity": 50,
+          "moisture": 34.11535,
+          "temperature": 24.9
+        },
+        {
+          "Fahrenheit": 76.82,
+          "humidity": 50,
+          "moisture": 34.11535,
+          "temperature": 24.9
+        },
+        {
+          "Fahrenheit": 77,
+          "humidity": 50,
+          "moisture": 33.72434,
+          "temperature": 25
+        },
+        {
+          "Fahrenheit": 77,
+          "humidity": 50,
+          "moisture": 33.82209,
+          "temperature": 25
+        },
+        {
+          "Fahrenheit": 77,
+          "humidity": 50,
+          "moisture": 34.2131,
+          "temperature": 25
+        },
+        {
+          "Fahrenheit": 77,
+          "humidity": 50,
+          "moisture": 34.31085,
+          "temperature": 25
+        },
+        {
+          "Fahrenheit": 77,
+          "humidity": 50,
+          "moisture": 34.50636,
+          "temperature": 25
+        },
+        {
+          "Fahrenheit": 77.18,
+          "humidity": 50,
+          "moisture": 34.99511,
+          "temperature": 25.1
+        },
+        {
+          "Fahrenheit": 77.18,
+          "humidity": 50,
+          "moisture": 34.31085,
+          "temperature": 25.1
+        },
+        {
+          "Fahrenheit": 77.18,
+          "humidity": 50,
+          "moisture": 35.09286,
+          "temperature": 25.1
+        },
+        {
+          "Fahrenheit": 77.18,
+          "humidity": 50,
+          "moisture": 36.16813,
+          "temperature": 25.1
+        },
+        {
+          "Fahrenheit": 77.36,
+          "humidity": 50,
+          "moisture": 35.87488,
+          "temperature": 25.2
+        },
+        {
+          "Fahrenheit": 77.36,
+          "humidity": 50,
+          "moisture": 35.67937,
+          "temperature": 25.2
+        },
+        {
+          "Fahrenheit": 77.18,
+          "humidity": 50,
+          "moisture": 36.16813,
+          "temperature": 25.1
+        },
+        {
+          "Fahrenheit": 77.36,
+          "humidity": 50,
+          "moisture": 35.97263,
+          "temperature": 25.2
+        },
+        {
+          "Fahrenheit": 77.18,
+          "humidity": 50,
+          "moisture": 35.28837,
+          "temperature": 25.1
+        },
+        {
+          "Fahrenheit": 77,
+          "humidity": 50,
+          "moisture": 35.19062,
+          "temperature": 25
+        },
+        {
+          "Fahrenheit": 77.18,
+          "humidity": 50,
+          "moisture": 34.0176,
+          "temperature": 25.1
+        },
+        {
+          "Fahrenheit": 77,
+          "humidity": 50,
+          "moisture": 34.11535,
+          "temperature": 25
+        },
+        {
+          "Fahrenheit": 77,
+          "humidity": 50,
+          "moisture": 34.60411,
+          "temperature": 25
+        },
+        {
+          "Fahrenheit": 77,
+          "humidity": 50,
+          "moisture": 34.0176,
+          "temperature": 25
+        },
+        {
+          "Fahrenheit": 77,
+          "humidity": 50,
+          "moisture": 34.31085,
+          "temperature": 25
+        },
+        {
+          "Fahrenheit": 77,
+          "humidity": 50,
+          "moisture": 35.77713,
+          "temperature": 25
+        },
+        {
+          "Fahrenheit": 77.18,
+          "humidity": 50,
+          "moisture": 35.38612,
+          "temperature": 25.1
+        },
+        {
+          "Fahrenheit": 77,
+          "humidity": 51,
+          "moisture": 35.28837,
+          "temperature": 25
+        },
+        {
+          "Fahrenheit": 77,
+          "humidity": 51,
+          "moisture": 36.07038,
+          "temperature": 25
+        },
+        {
+          "Fahrenheit": 77,
+          "humidity": 51,
+          "moisture": 34.11535,
+          "temperature": 25
+        },
+        {
+          "Fahrenheit": 77,
+          "humidity": 50,
+          "moisture": 33.62659,
+          "temperature": 25
+        },
+        {
+          "Fahrenheit": 77,
+          "humidity": 50,
+          "moisture": 33.91984,
+          "temperature": 25
+        },
+        {
+          "Fahrenheit": 77,
+          "humidity": 50,
+          "moisture": 34.2131,
+          "temperature": 25
+        },
+        {
+          "Fahrenheit": 77,
+          "humidity": 50,
+          "moisture": 34.31085,
+          "temperature": 25
+        },
+        {
+          "Fahrenheit": 77,
+          "humidity": 50,
+          "moisture": 34.31085,
+          "temperature": 25
+        },
+        {
+          "Fahrenheit": 77,
+          "humidity": 50,
+          "moisture": 34.60411,
+          "temperature": 25
+        },
+        {
+          "Fahrenheit": 77,
+          "humidity": 50,
+          "moisture": 34.31085,
+          "temperature": 25
+        },
+        {
+          "Fahrenheit": 77.18,
+          "humidity": 51,
+          "moisture": 34.31085,
+          "temperature": 25.1
+        },
+        {
+          "Fahrenheit": 77.18,
+          "humidity": 50,
+          "moisture": 33.91984,
+          "temperature": 25.1
+        },
+        {
+          "Fahrenheit": 77.36,
+          "humidity": 50,
+          "moisture": 34.0176,
+          "temperature": 25.2
+        },
+        {
+          "Fahrenheit": 77.36,
+          "humidity": 50,
+          "moisture": 34.11535,
+          "temperature": 25.2
+        },
+        {
+          "Fahrenheit": 77.18,
+          "humidity": 50,
+          "moisture": 33.91984,
+          "temperature": 25.1
+        },
+        {
+          "Fahrenheit": 77.18,
+          "humidity": 50,
+          "moisture": 33.72434,
+          "temperature": 25.1
+        },
+        {
+          "Fahrenheit": 77.36,
+          "humidity": 50,
+          "moisture": 34.31085,
+          "temperature": 25.2
+        },
+        {
+          "Fahrenheit": 77.18,
+          "humidity": 49,
+          "moisture": 34.31085,
+          "temperature": 25.1
+        },
+        {
+          "Fahrenheit": 77.36,
+          "humidity": 50,
+          "moisture": 34.2131,
+          "temperature": 25.2
+        },
+        {
+          "Fahrenheit": 77.36,
+          "humidity": 49,
+          "moisture": 34.11535,
+          "temperature": 25.2
+        },
+        {
+          "Fahrenheit": 77.54,
+          "humidity": 49,
+          "moisture": 34.2131,
+          "temperature": 25.3
+        },
+        {
+          "Fahrenheit": 77.36,
+          "humidity": 49,
+          "moisture": 34.31085,
+          "temperature": 25.2
+        }
+      ],
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "57": {
+          "Fahrenheit": 76.28,
+          "humidity": 43,
+          "moisture": -0.09775,
+          "temperature": 24.6
+        },
+        "58": {
+          "Fahrenheit": 76.46,
+          "humidity": 42,
+          "moisture": -0.09775,
+          "temperature": 24.7
+        },
+        "59": {
+          "Fahrenheit": 76.28,
+          "humidity": 42,
+          "moisture": -0.09775,
+          "temperature": 24.6
+        }
+      },
+      [
+        {
+          "Fahrenheit": 76.28,
+          "humidity": 42,
+          "moisture": -0.09775,
+          "temperature": 24.6
+        },
+        {
+          "Fahrenheit": 76.46,
+          "humidity": 43,
+          "moisture": -0.09775,
+          "temperature": 24.7
+        },
+        {
+          "Fahrenheit": 76.64,
+          "humidity": 42,
+          "moisture": -0.09775,
+          "temperature": 24.8
+        },
+        {
+          "Fahrenheit": 76.64,
+          "humidity": 42,
+          "moisture": -0.09775,
+          "temperature": 24.8
+        },
+        {
+          "Fahrenheit": 76.82,
+          "humidity": 42,
+          "moisture": -0.09775,
+          "temperature": 24.9
+        },
+        {
+          "Fahrenheit": 76.82,
+          "humidity": 42,
+          "moisture": -0.09775,
+          "temperature": 24.9
+        },
+        {
+          "Fahrenheit": 76.82,
+          "humidity": 42,
+          "moisture": -0.09775,
+          "temperature": 24.9
+        },
+        {
+          "Fahrenheit": 77,
+          "humidity": 42,
+          "moisture": -0.09775,
+          "temperature": 25
+        },
+        {
+          "Fahrenheit": 77,
+          "humidity": 42,
+          "moisture": -0.09775,
+          "temperature": 25
+        },
+        {
+          "Fahrenheit": 77.18,
+          "humidity": 41,
+          "moisture": -0.09775,
+          "temperature": 25.1
+        },
+        {
+          "Fahrenheit": 77.18,
+          "humidity": 41,
+          "moisture": -0.09775,
+          "temperature": 25.1
+        },
+        {
+          "Fahrenheit": 77.36,
+          "humidity": 41,
+          "moisture": -0.09775,
+          "temperature": 25.2
+        },
+        {
+          "Fahrenheit": 77.36,
+          "humidity": 41,
+          "moisture": -0.09775,
+          "temperature": 25.2
+        },
+        {
+          "Fahrenheit": 77.36,
+          "humidity": 41,
+          "moisture": -0.09775,
+          "temperature": 25.2
+        },
+        {
+          "Fahrenheit": 77.54,
+          "humidity": 41,
+          "moisture": -0.09775,
+          "temperature": 25.3
+        },
+        {
+          "Fahrenheit": 77.54,
+          "humidity": 41,
+          "moisture": -0.09775,
+          "temperature": 25.3
+        },
+        {
+          "Fahrenheit": 77.72,
+          "humidity": 41,
+          "moisture": -0.09775,
+          "temperature": 25.4
+        },
+        {
+          "Fahrenheit": 77.72,
+          "humidity": 41,
+          "moisture": -0.09775,
+          "temperature": 25.4
+        },
+        {
+          "Fahrenheit": 77.72,
+          "humidity": 41,
+          "moisture": -0.09775,
+          "temperature": 25.4
+        },
+        {
+          "Fahrenheit": 77.72,
+          "humidity": 41,
+          "moisture": -0.09775,
+          "temperature": 25.4
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 40,
+          "moisture": -0.09775,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 40,
+          "moisture": -0.09775,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 40,
+          "moisture": -0.09775,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 40,
+          "moisture": -0.09775,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 78.08,
+          "humidity": 40,
+          "moisture": -0.09775,
+          "temperature": 25.6
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 40,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 40,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.08,
+          "humidity": 40,
+          "moisture": -0.09775,
+          "temperature": 25.6
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 40,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 40,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 40,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 40,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 41,
+          "moisture": -0.09775,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 40,
+          "moisture": -0.09775,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 40,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 40,
+          "moisture": -0.09775,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 40,
+          "moisture": -0.09775,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 40,
+          "moisture": -0.09775,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 40,
+          "moisture": -0.09775,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.62,
+          "humidity": 40,
+          "moisture": -0.09775,
+          "temperature": 25.9
+        },
+        {
+          "Fahrenheit": 78.62,
+          "humidity": 40,
+          "moisture": -0.09775,
+          "temperature": 25.9
+        },
+        {
+          "Fahrenheit": 78.8,
+          "humidity": 41,
+          "moisture": -0.09775,
+          "temperature": 26
+        },
+        {
+          "Fahrenheit": 78.8,
+          "humidity": 40,
+          "moisture": -0.09775,
+          "temperature": 26
+        },
+        {
+          "Fahrenheit": 78.8,
+          "humidity": 40,
+          "moisture": -0.09775,
+          "temperature": 26
+        },
+        {
+          "Fahrenheit": 78.8,
+          "humidity": 41,
+          "moisture": -0.09775,
+          "temperature": 26
+        },
+        {
+          "Fahrenheit": 78.98,
+          "humidity": 41,
+          "moisture": -0.09775,
+          "temperature": 26.1
+        },
+        {
+          "Fahrenheit": 78.98,
+          "humidity": 42,
+          "moisture": 51.12415,
+          "temperature": 26.1
+        },
+        {
+          "Fahrenheit": 78.98,
+          "humidity": 41,
+          "moisture": 51.71066,
+          "temperature": 26.1
+        },
+        {
+          "Fahrenheit": 78.98,
+          "humidity": 41,
+          "moisture": 50.73314,
+          "temperature": 26.1
+        },
+        {
+          "Fahrenheit": 78.98,
+          "humidity": 41,
+          "moisture": 50.14663,
+          "temperature": 26.1
+        },
+        {
+          "Fahrenheit": 78.98,
+          "humidity": 41,
+          "moisture": 49.46236,
+          "temperature": 26.1
+        },
+        {
+          "Fahrenheit": 78.8,
+          "humidity": 41,
+          "moisture": 48.3871,
+          "temperature": 26
+        },
+        {
+          "Fahrenheit": 78.62,
+          "humidity": 40,
+          "moisture": 47.70284,
+          "temperature": 25.9
+        },
+        {
+          "Fahrenheit": 78.62,
+          "humidity": 40,
+          "moisture": 46.33431,
+          "temperature": 25.9
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 40,
+          "moisture": 45.16129,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 40,
+          "moisture": 44.77028,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 40,
+          "moisture": 44.28152,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 40,
+          "moisture": 43.40176,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.62,
+          "humidity": 40,
+          "moisture": 43.30401,
+          "temperature": 25.9
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 40,
+          "moisture": 43.01075,
+          "temperature": 25.8
+        }
+      ],
+      [
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 40,
+          "moisture": 43.30401,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 40,
+          "moisture": 43.98827,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 41,
+          "moisture": 43.20626,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 41,
+          "moisture": 43.49951,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 41,
+          "moisture": 43.40176,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 41,
+          "moisture": 42.7175,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 41,
+          "moisture": 42.81525,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 41,
+          "moisture": 43.30401,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 41,
+          "moisture": 43.20626,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 41,
+          "moisture": 42.81525,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.08,
+          "humidity": 41,
+          "moisture": 42.81525,
+          "temperature": 25.6
+        },
+        {
+          "Fahrenheit": 78.08,
+          "humidity": 41,
+          "moisture": 42.42424,
+          "temperature": 25.6
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 41,
+          "moisture": 42.22874,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 41,
+          "moisture": 42.42424,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.08,
+          "humidity": 41,
+          "moisture": 42.7175,
+          "temperature": 25.6
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 42,
+          "moisture": 42.7175,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.08,
+          "humidity": 42,
+          "moisture": 42.32649,
+          "temperature": 25.6
+        },
+        {
+          "Fahrenheit": 78.08,
+          "humidity": 41,
+          "moisture": 42.22874,
+          "temperature": 25.6
+        },
+        {
+          "Fahrenheit": 78.08,
+          "humidity": 41,
+          "moisture": 42.32649,
+          "temperature": 25.6
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 41,
+          "moisture": 42.32649,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 41,
+          "moisture": 42.32649,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 41,
+          "moisture": 42.522,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.08,
+          "humidity": 42,
+          "moisture": 42.522,
+          "temperature": 25.6
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 42,
+          "moisture": 42.13099,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 42,
+          "moisture": 41.93548,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 42,
+          "moisture": 41.83773,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 78.08,
+          "humidity": 41,
+          "moisture": 41.83773,
+          "temperature": 25.6
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 42,
+          "moisture": 42.13099,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 42,
+          "moisture": 42.22874,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 42,
+          "moisture": 42.13099,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 42,
+          "moisture": 41.34897,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 42,
+          "moisture": 41.64223,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 77.72,
+          "humidity": 42,
+          "moisture": 41.54448,
+          "temperature": 25.4
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 42,
+          "moisture": 41.34897,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 42,
+          "moisture": 41.93548,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 42,
+          "moisture": 41.25122,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 42,
+          "moisture": 41.73998,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 42,
+          "moisture": 41.73998,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 77.72,
+          "humidity": 42,
+          "moisture": 41.34897,
+          "temperature": 25.4
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 42,
+          "moisture": 41.83773,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 77.72,
+          "humidity": 42,
+          "moisture": 41.93548,
+          "temperature": 25.4
+        },
+        {
+          "Fahrenheit": 77.72,
+          "humidity": 42,
+          "moisture": 41.83773,
+          "temperature": 25.4
+        },
+        {
+          "Fahrenheit": 77.72,
+          "humidity": 42,
+          "moisture": 42.03324,
+          "temperature": 25.4
+        },
+        {
+          "Fahrenheit": 77.72,
+          "humidity": 42,
+          "moisture": 42.81525,
+          "temperature": 25.4
+        },
+        {
+          "Fahrenheit": 77.72,
+          "humidity": 42,
+          "moisture": 42.32649,
+          "temperature": 25.4
+        },
+        {
+          "Fahrenheit": 77.72,
+          "humidity": 42,
+          "moisture": 42.42424,
+          "temperature": 25.4
+        },
+        {
+          "Fahrenheit": 77.72,
+          "humidity": 42,
+          "moisture": 42.03324,
+          "temperature": 25.4
+        },
+        {
+          "Fahrenheit": 77.72,
+          "humidity": 42,
+          "moisture": 41.73998,
+          "temperature": 25.4
+        },
+        {
+          "Fahrenheit": 77.72,
+          "humidity": 42,
+          "moisture": 41.83773,
+          "temperature": 25.4
+        },
+        {
+          "Fahrenheit": 77.72,
+          "humidity": 42,
+          "moisture": 41.34897,
+          "temperature": 25.4
+        },
+        {
+          "Fahrenheit": 77.72,
+          "humidity": 42,
+          "moisture": 40.46921,
+          "temperature": 25.4
+        },
+        {
+          "Fahrenheit": 77.72,
+          "humidity": 42,
+          "moisture": 40.66471,
+          "temperature": 25.4
+        },
+        {
+          "Fahrenheit": 77.54,
+          "humidity": 43,
+          "moisture": 41.93548,
+          "temperature": 25.3
+        },
+        {
+          "Fahrenheit": 77.72,
+          "humidity": 43,
+          "moisture": 41.25122,
+          "temperature": 25.4
+        },
+        {
+          "Fahrenheit": 77.72,
+          "humidity": 43,
+          "moisture": 41.64223,
+          "temperature": 25.4
+        },
+        {
+          "Fahrenheit": 77.72,
+          "humidity": 43,
+          "moisture": 41.83773,
+          "temperature": 25.4
+        },
+        {
+          "Fahrenheit": 77.72,
+          "humidity": 42,
+          "moisture": 42.03324,
+          "temperature": 25.4
+        },
+        {
+          "Fahrenheit": 77.72,
+          "humidity": 43,
+          "moisture": 41.34897,
+          "temperature": 25.4
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 43,
+          "moisture": 41.25122,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 77.72,
+          "humidity": 43,
+          "moisture": 41.64223,
+          "temperature": 25.4
+        }
+      ],
+      [
+        {
+          "Fahrenheit": 77.72,
+          "humidity": 43,
+          "moisture": 41.64223,
+          "temperature": 25.4
+        },
+        {
+          "Fahrenheit": 77.72,
+          "humidity": 43,
+          "moisture": 41.34897,
+          "temperature": 25.4
+        },
+        {
+          "Fahrenheit": 77.72,
+          "humidity": 43,
+          "moisture": 41.05572,
+          "temperature": 25.4
+        },
+        {
+          "Fahrenheit": 77.54,
+          "humidity": 43,
+          "moisture": 42.22874,
+          "temperature": 25.3
+        },
+        {
+          "Fahrenheit": 77.54,
+          "humidity": 43,
+          "moisture": 41.54448,
+          "temperature": 25.3
+        },
+        {
+          "Fahrenheit": 77.72,
+          "humidity": 43,
+          "moisture": 41.73998,
+          "temperature": 25.4
+        },
+        {
+          "Fahrenheit": 77.54,
+          "humidity": 44,
+          "moisture": 41.54448,
+          "temperature": 25.3
+        },
+        {
+          "Fahrenheit": 77.54,
+          "humidity": 44,
+          "moisture": 41.93548,
+          "temperature": 25.3
+        },
+        {
+          "Fahrenheit": 77.54,
+          "humidity": 44,
+          "moisture": 41.93548,
+          "temperature": 25.3
+        },
+        {
+          "Fahrenheit": 77.54,
+          "humidity": 44,
+          "moisture": 41.54448,
+          "temperature": 25.3
+        },
+        {
+          "Fahrenheit": 77.54,
+          "humidity": 44,
+          "moisture": 3.0303,
+          "temperature": 25.3
+        },
+        {
+          "Fahrenheit": 77.72,
+          "humidity": 44,
+          "moisture": 1.17302,
+          "temperature": 25.4
+        },
+        {
+          "Fahrenheit": 77.72,
+          "humidity": 44,
+          "moisture": 0.1955,
+          "temperature": 25.4
+        },
+        {
+          "Fahrenheit": 77.72,
+          "humidity": 44,
+          "moisture": -0.09775,
+          "temperature": 25.4
+        },
+        {
+          "Fahrenheit": 77.72,
+          "humidity": 44,
+          "moisture": -0.09775,
+          "temperature": 25.4
+        },
+        {
+          "Fahrenheit": 77.72,
+          "humidity": 44,
+          "moisture": -0.09775,
+          "temperature": 25.4
+        },
+        {
+          "Fahrenheit": 77.72,
+          "humidity": 44,
+          "moisture": -0.09775,
+          "temperature": 25.4
+        },
+        {
+          "Fahrenheit": 77.72,
+          "humidity": 44,
+          "moisture": -0.09775,
+          "temperature": 25.4
+        },
+        {
+          "Fahrenheit": 77.72,
+          "humidity": 44,
+          "moisture": -0.09775,
+          "temperature": 25.4
+        },
+        {
+          "Fahrenheit": 77.72,
+          "humidity": 45,
+          "moisture": -0.09775,
+          "temperature": 25.4
+        },
+        {
+          "Fahrenheit": 77.72,
+          "humidity": 45,
+          "moisture": -0.09775,
+          "temperature": 25.4
+        },
+        {
+          "Fahrenheit": 77.54,
+          "humidity": 45,
+          "moisture": -0.09775,
+          "temperature": 25.3
+        },
+        {
+          "Fahrenheit": 77.72,
+          "humidity": 45,
+          "moisture": -0.09775,
+          "temperature": 25.4
+        },
+        {
+          "Fahrenheit": 77.72,
+          "humidity": 45,
+          "moisture": -0.09775,
+          "temperature": 25.4
+        },
+        {
+          "Fahrenheit": 77.72,
+          "humidity": 45,
+          "moisture": -0.09775,
+          "temperature": 25.4
+        },
+        {
+          "Fahrenheit": 77.72,
+          "humidity": 45,
+          "moisture": -0.09775,
+          "temperature": 25.4
+        },
+        {
+          "Fahrenheit": 77.72,
+          "humidity": 45,
+          "moisture": -0.09775,
+          "temperature": 25.4
+        },
+        {
+          "Fahrenheit": 77.72,
+          "humidity": 45,
+          "moisture": -0.09775,
+          "temperature": 25.4
+        },
+        {
+          "Fahrenheit": 77.72,
+          "humidity": 45,
+          "moisture": -0.09775,
+          "temperature": 25.4
+        },
+        {
+          "Fahrenheit": 77.72,
+          "humidity": 45,
+          "moisture": -0.09775,
+          "temperature": 25.4
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 45,
+          "moisture": -0.09775,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 46,
+          "moisture": -0.09775,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 45,
+          "moisture": -0.09775,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 46,
+          "moisture": -0.09775,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 46,
+          "moisture": -0.09775,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 45,
+          "moisture": -0.09775,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 45,
+          "moisture": -0.09775,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 46,
+          "moisture": -0.09775,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 46,
+          "moisture": -0.09775,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 46,
+          "moisture": -0.09775,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 46,
+          "moisture": -0.09775,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 46,
+          "moisture": -0.09775,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 46,
+          "moisture": -0.09775,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 46,
+          "moisture": -0.09775,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 46,
+          "moisture": -0.09775,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 46,
+          "moisture": -0.09775,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 46,
+          "moisture": -0.09775,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 46,
+          "moisture": -0.09775,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 46,
+          "moisture": -0.09775,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 47,
+          "moisture": -0.09775,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 77.72,
+          "humidity": 46,
+          "moisture": -0.09775,
+          "temperature": 25.4
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 46,
+          "moisture": -0.09775,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 46,
+          "moisture": -0.09775,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 46,
+          "moisture": -0.09775,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 77.72,
+          "humidity": 47,
+          "moisture": -0.09775,
+          "temperature": 25.4
+        },
+        {
+          "Fahrenheit": 77.72,
+          "humidity": 47,
+          "moisture": -0.09775,
+          "temperature": 25.4
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 47,
+          "moisture": -0.09775,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 47,
+          "moisture": -0.09775,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 47,
+          "moisture": -0.09775,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 47,
+          "moisture": -0.09775,
+          "temperature": 25.5
+        }
+      ],
+      [
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 48,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 49,
+          "moisture": -0.09775,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 49,
+          "moisture": -0.09775,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 77.9,
+          "humidity": 49,
+          "moisture": -0.09775,
+          "temperature": 25.5
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 49,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 49,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 49,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 49,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 49,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 49,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 49,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 49,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 49,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 49,
+          "moisture": -0.09775,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 49,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 49,
+          "moisture": -0.09775,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 49,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 49,
+          "moisture": -0.09775,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.62,
+          "humidity": 48,
+          "moisture": -0.09775,
+          "temperature": 25.9
+        },
+        {
+          "Fahrenheit": 78.62,
+          "humidity": 48,
+          "moisture": -0.09775,
+          "temperature": 25.9
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 49,
+          "moisture": -0.09775,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 49,
+          "moisture": -0.09775,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 49,
+          "moisture": -0.09775,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 49,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 49,
+          "moisture": -0.09775,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 49,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 49,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 49,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 49,
+          "moisture": -0.09775,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.62,
+          "humidity": 49,
+          "moisture": -0.09775,
+          "temperature": 25.9
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 49,
+          "moisture": -0.09775,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 49,
+          "moisture": -0.09775,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 49,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 49,
+          "moisture": -0.09775,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 49,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 49,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 49,
+          "moisture": -0.09775,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 49,
+          "moisture": -0.09775,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 49,
+          "moisture": -0.09775,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 49,
+          "moisture": -0.09775,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 49,
+          "moisture": -0.09775,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 49,
+          "moisture": -0.09775,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 49,
+          "moisture": -0.09775,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 49,
+          "moisture": -0.09775,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 49,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 49,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 49,
+          "moisture": -0.09775,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 49,
+          "moisture": -0.09775,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 49,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 49,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 49,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 49,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 49,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 49,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 49,
+          "moisture": -0.09775,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 49,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 49,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 49,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 50,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 49,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        }
+      ],
+      [
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 49,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 49,
+          "moisture": -0.09775,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 49,
+          "moisture": -0.09775,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 50,
+          "moisture": -0.09775,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 49,
+          "moisture": -0.09775,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 49,
+          "moisture": -0.09775,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 49,
+          "moisture": -0.09775,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 49,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 49,
+          "moisture": -0.09775,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 49,
+          "moisture": -0.09775,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 49,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 50,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 49,
+          "moisture": -0.09775,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 49,
+          "moisture": -0.09775,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 49,
+          "moisture": -0.09775,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 50,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 50,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 50,
+          "moisture": -0.09775,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 50,
+          "moisture": -0.09775,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 50,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 50,
+          "moisture": -0.09775,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 50,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 50,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 50,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 50,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 50,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 50,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 50,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 50,
+          "moisture": -0.09775,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 50,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 50,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 50,
+          "moisture": -0.09775,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 51,
+          "moisture": -0.09775,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 50,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 50,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 51,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 50,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 51,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 51,
+          "moisture": -0.09775,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 51,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 51,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.08,
+          "humidity": 51,
+          "moisture": -0.09775,
+          "temperature": 25.6
+        },
+        {
+          "Fahrenheit": 78.08,
+          "humidity": 51,
+          "moisture": -0.09775,
+          "temperature": 25.6
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 51,
+          "moisture": -0.09775,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 51,
+          "moisture": -0.09775,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 51,
+          "moisture": -0.09775,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 51,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 51,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 51,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 51,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 51,
+          "moisture": -0.09775,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 51,
+          "moisture": -0.09775,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 51,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 51,
+          "moisture": -0.09775,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.44,
+          "humidity": 51,
+          "moisture": -0.09775,
+          "temperature": 25.8
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 51,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 51,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 51,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 52,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 52,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        }
+      ],
+      [
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 52,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 52,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.08,
+          "humidity": 52,
+          "moisture": -0.09775,
+          "temperature": 25.6
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 52,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 52,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        },
+        {
+          "Fahrenheit": 78.26,
+          "humidity": 52,
+          "moisture": -0.09775,
+          "temperature": 25.7
+        }
+      ]
+    ],
+    "2021-2-3": {
+      "13": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "Fahrenheit": 79.52,
+          "humidity": 46,
+          "moisture": 32.35582,
+          "temperature": 26.4
+        },
+        {
+          "Fahrenheit": 80.06,
+          "humidity": 45,
+          "moisture": 29.03226,
+          "temperature": 26.7
+        },
+        {
+          "Fahrenheit": 80.06,
+          "humidity": 46,
+          "moisture": -0.09775,
+          "temperature": 26.7
+        },
+        {
+          "Fahrenheit": 80.24,
+          "humidity": 46,
+          "moisture": 45.7478,
+          "temperature": 26.8
+        },
+        {
+          "Fahrenheit": 80.06,
+          "humidity": 46,
+          "moisture": -0.09775,
+          "temperature": 26.7
+        },
+        {
+          "Fahrenheit": 80.24,
+          "humidity": 46,
+          "moisture": 37.2434,
+          "temperature": 26.8
+        },
+        {
+          "Fahrenheit": 80.42,
+          "humidity": 46,
+          "moisture": 57.2825,
+          "temperature": 26.9
+        },
+        {
+          "Fahrenheit": 80.06,
+          "humidity": 46,
+          "moisture": 52.29716,
+          "temperature": 26.7
+        },
+        {
+          "Fahrenheit": 79.7,
+          "humidity": 46,
+          "moisture": 49.36461,
+          "temperature": 26.5
+        },
+        {
+          "Fahrenheit": 79.7,
+          "humidity": 45,
+          "moisture": 48.87585,
+          "temperature": 26.4
+        },
+        {
+          "Fahrenheit": 79.34,
+          "humidity": 44,
+          "moisture": 45.16129,
+          "temperature": 26.3
+        },
+        {
+          "Fahrenheit": 79.16,
+          "humidity": 44,
+          "moisture": 41.15347,
+          "temperature": 26.2
+        },
+        {
+          "Fahrenheit": 79.16,
+          "humidity": 44,
+          "moisture": 38.51418,
+          "temperature": 26.2
+        },
+        {
+          "Fahrenheit": 79.34,
+          "humidity": 42,
+          "moisture": 37.53666,
+          "temperature": 26.3
+        },
+        {
+          "Fahrenheit": 79.16,
+          "humidity": 44,
+          "moisture": 38.12317,
+          "temperature": 26.2
+        },
+        {
+          "Fahrenheit": 79.16,
+          "humidity": 44,
+          "moisture": 38.22092,
+          "temperature": 26.2
+        },
+        {
+          "Fahrenheit": 79.16,
+          "humidity": 44,
+          "moisture": 39.49169,
+          "temperature": 26.2
+        },
+        {
+          "Fahrenheit": 79.16,
+          "humidity": 43,
+          "moisture": 37.2434,
+          "temperature": 26.2
+        },
+        {
+          "Fahrenheit": 78.98,
+          "humidity": 44,
+          "moisture": 36.85239,
+          "temperature": 26.1
+        },
+        {
+          "Fahrenheit": 78.98,
+          "humidity": 44,
+          "moisture": 37.14565,
+          "temperature": 26.1
+        },
+        {
+          "Fahrenheit": 78.98,
+          "humidity": 45,
+          "moisture": 38.90518,
+          "temperature": 26.1
+        },
+        {
+          "Fahrenheit": 78.8,
+          "humidity": 45,
+          "moisture": 39.19844,
+          "temperature": 26
+        },
+        {
+          "Fahrenheit": 78.8,
+          "humidity": 43,
+          "moisture": 36.26588,
+          "temperature": 26
+        },
+        {
+          "Fahrenheit": 78.8,
+          "humidity": 43,
+          "moisture": 34.89736,
+          "temperature": 25.9
+        },
+        {
+          "Fahrenheit": 78.62,
+          "humidity": 43,
+          "moisture": 30.10753,
+          "temperature": 25.9
+        },
+        {
+          "Fahrenheit": 78.8,
+          "humidity": 44,
+          "moisture": 30.69404,
+          "temperature": 26
+        },
+        {
+          "Fahrenheit": 78.98,
+          "humidity": 44,
+          "moisture": 30.00978,
+          "temperature": 26.1
+        },
+        {
+          "Fahrenheit": 78.98,
+          "humidity": 44,
+          "moisture": 30.10753,
+          "temperature": 26.1
+        },
+        {
+          "Fahrenheit": 78.98,
+          "humidity": 44,
+          "moisture": 29.81427,
+          "temperature": 26.1
+        },
+        {
+          "Fahrenheit": 78.98,
+          "humidity": 45,
+          "moisture": 30.10753,
+          "temperature": 26.1
+        },
+        {
+          "Fahrenheit": 78.98,
+          "humidity": 43,
+          "moisture": 30.59628,
+          "temperature": 26.1
+        },
+        {
+          "Fahrenheit": 78.98,
+          "humidity": 44,
+          "moisture": 32.64907,
+          "temperature": 26.1
+        },
+        {
+          "Fahrenheit": 78.8,
+          "humidity": 43,
+          "moisture": 30.59628,
+          "temperature": 26
+        },
+        {
+          "Fahrenheit": 78.8,
+          "humidity": 43,
+          "moisture": 29.81427,
+          "temperature": 26
+        },
+        {
+          "Fahrenheit": 78.98,
+          "humidity": 44,
+          "moisture": 29.42327,
+          "temperature": 26.1
+        },
+        {
+          "Fahrenheit": 78.98,
+          "humidity": 43,
+          "moisture": 29.13001,
+          "temperature": 26.1
+        },
+        {
+          "Fahrenheit": 78.98,
+          "humidity": 43,
+          "moisture": 29.91202,
+          "temperature": 26.1
+        },
+        {
+          "Fahrenheit": 78.98,
+          "humidity": 43,
+          "moisture": 34.2131,
+          "temperature": 26.1
+        },
+        {
+          "Fahrenheit": 78.98,
+          "humidity": 44,
+          "moisture": 29.22776,
+          "temperature": 26.1
+        },
+        {
+          "Fahrenheit": 78.98,
+          "humidity": 43,
+          "moisture": 29.13001,
+          "temperature": 26.1
+        },
+        {
+          "Fahrenheit": 79.16,
+          "humidity": 42,
+          "moisture": 29.52102,
+          "temperature": 26.2
+        },
+        {
+          "Fahrenheit": 79.16,
+          "humidity": 42,
+          "moisture": 29.61877,
+          "temperature": 26.2
+        },
+        {
+          "Fahrenheit": 79.16,
+          "humidity": 42,
+          "moisture": 30.40078,
+          "temperature": 26.2
+        },
+        {
+          "Fahrenheit": 79.16,
+          "humidity": 42,
+          "moisture": 30.98729,
+          "temperature": 26.2
+        }
+      ],
+      "14": [
+        {
+          "Fahrenheit": 79.16,
+          "humidity": 41,
+          "moisture": 30.00978,
+          "temperature": 26.2
+        },
+        {
+          "Fahrenheit": 79.16,
+          "humidity": 41,
+          "moisture": 31.3783,
+          "temperature": 26.2
+        },
+        {
+          "Fahrenheit": 79.16,
+          "humidity": 42,
+          "moisture": 29.91202,
+          "temperature": 26.2
+        },
+        {
+          "Fahrenheit": 79.16,
+          "humidity": 42,
+          "moisture": 34.0176,
+          "temperature": 26.2
+        },
+        {
+          "Fahrenheit": 79.16,
+          "humidity": 42,
+          "moisture": 29.03226,
+          "temperature": 26.2
+        },
+        {
+          "Fahrenheit": 79.34,
+          "humidity": 42,
+          "moisture": 29.03226,
+          "temperature": 26.3
+        },
+        {
+          "Fahrenheit": 79.16,
+          "humidity": 43,
+          "moisture": 29.03226,
+          "temperature": 26.2
+        },
+        {
+          "Fahrenheit": 79.34,
+          "humidity": 43,
+          "moisture": 29.52102,
+          "temperature": 26.3
+        },
+        {
+          "Fahrenheit": 79.16,
+          "humidity": 43,
+          "moisture": 30.30303,
+          "temperature": 26.2
+        },
+        {
+          "Fahrenheit": 79.34,
+          "humidity": 43,
+          "moisture": 30.59628,
+          "temperature": 26.3
+        },
+        {
+          "Fahrenheit": 79.34,
+          "humidity": 43,
+          "moisture": 29.03226,
+          "temperature": 26.3
+        },
+        {
+          "Fahrenheit": 79.34,
+          "humidity": 43,
+          "moisture": 29.61877,
+          "temperature": 26.3
+        },
+        {
+          "Fahrenheit": 79.34,
+          "humidity": 43,
+          "moisture": 34.31085,
+          "temperature": 26.3
+        },
+        {
+          "Fahrenheit": 79.52,
+          "humidity": 43,
+          "moisture": 38.02542,
+          "temperature": 26.4
+        },
+        {
+          "Fahrenheit": 79.52,
+          "humidity": 43,
+          "moisture": 39.19844,
+          "temperature": 26.4
+        },
+        {
+          "Fahrenheit": 79.52,
+          "humidity": 43,
+          "moisture": 35.28837,
+          "temperature": 26.4
+        },
+        {
+          "Fahrenheit": 79.34,
+          "humidity": 42,
+          "moisture": 29.81427,
+          "temperature": 26.3
+        },
+        {
+          "Fahrenheit": 79.34,
+          "humidity": 43,
+          "moisture": 30.40078,
+          "temperature": 26.3
+        },
+        {
+          "Fahrenheit": 79.34,
+          "humidity": 43,
+          "moisture": 33.91984,
+          "temperature": 26.3
+        },
+        {
+          "Fahrenheit": 79.52,
+          "humidity": 43,
+          "moisture": 37.0479,
+          "temperature": 26.4
+        },
+        {
+          "Fahrenheit": 79.52,
+          "humidity": 42,
+          "moisture": 35.87488,
+          "temperature": 26.4
+        },
+        {
+          "Fahrenheit": 79.16,
+          "humidity": 41,
+          "moisture": 30.40078,
+          "temperature": 26.2
+        },
+        {
+          "Fahrenheit": 79.52,
+          "humidity": 41,
+          "moisture": 28.93451,
+          "temperature": 26.4
+        },
+        {
+          "Fahrenheit": 79.34,
+          "humidity": 42,
+          "moisture": 28.348,
+          "temperature": 26.3
+        },
+        {
+          "Fahrenheit": 79.34,
+          "humidity": 42,
+          "moisture": 29.13001,
+          "temperature": 26.3
+        },
+        {
+          "Fahrenheit": 79.34,
+          "humidity": 41,
+          "moisture": 29.52102,
+          "temperature": 26.3
+        },
+        {
+          "Fahrenheit": 79.16,
+          "humidity": 42,
+          "moisture": 33.43108,
+          "temperature": 26.2
+        },
+        {
+          "Fahrenheit": 79.16,
+          "humidity": 42,
+          "moisture": -0.09775,
+          "temperature": 26.2
+        },
+        {
+          "Fahrenheit": 79.52,
+          "humidity": 42,
+          "moisture": -0.09775,
+          "temperature": 26.4
+        },
+        {
+          "Fahrenheit": 79.52,
+          "humidity": 42,
+          "moisture": -0.09775,
+          "temperature": 26.4
+        },
+        {
+          "Fahrenheit": 79.7,
+          "humidity": 42,
+          "moisture": -0.09775,
+          "temperature": 26.5
+        },
+        {
+          "Fahrenheit": 79.7,
+          "humidity": 42,
+          "moisture": -0.09775,
+          "temperature": 26.5
+        },
+        {
+          "Fahrenheit": 79.7,
+          "humidity": 40,
+          "moisture": -0.09775,
+          "temperature": 26.5
+        },
+        {
+          "Fahrenheit": 79.7,
+          "humidity": 41,
+          "moisture": -0.09775,
+          "temperature": 26.5
+        },
+        {
+          "Fahrenheit": 79.7,
+          "humidity": 41,
+          "moisture": -0.09775,
+          "temperature": 26.5
+        },
+        {
+          "Fahrenheit": 79.7,
+          "humidity": 40,
+          "moisture": -0.09775,
+          "temperature": 26.5
+        },
+        {
+          "Fahrenheit": 79.7,
+          "humidity": 41,
+          "moisture": 37.73216,
+          "temperature": 26.5
+        }
+      ]
+    }
+  }
+}nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull
